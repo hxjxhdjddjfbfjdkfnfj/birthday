@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>生日祝福</title>
+    <script>
+        function showBirthdayMessage() {
+            alert("王貞妮大漂亮生日快樂🎂");
+        }
+    </script>
+</head>
+<body>
+    <h1>點擊下面的連結來查看生日祝福：</h1>
+    <a href="javascript:void(0);" onclick="showBirthdayMessage()">點我</a>
+</body>
+</html>
